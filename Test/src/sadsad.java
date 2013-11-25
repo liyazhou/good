@@ -1,13 +1,11 @@
-
 public class sadsad {
 
-	public sadsad() {
+	String a;
+	public sadsad(String a) {
+		this.a = a;
 		// TODO Auto-generated constructor stub
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-	}sdsad
 
 }
